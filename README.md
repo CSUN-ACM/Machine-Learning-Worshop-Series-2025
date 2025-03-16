@@ -8,3 +8,6 @@ Programming Linear Regression
 
 Week 3:
 K Nearest Neighbors and Logistic Regression
+
+Week 4:
+Programming Logistic Regression and Regularization 
