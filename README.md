@@ -1,4 +1,4 @@
-# Machine-Learning-Worshop-Series-2025
+# Machine-Learning-Workshop-Series-2025
 
 Week 1: 
 Intro to Machine Learning and Linear Regression.
